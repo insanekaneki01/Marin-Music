@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 MARIN ダ MUSIC 」──
+    ──「 MAKIMA ダ MUSIC 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/d81868374fc294b16ef79.jpg" width="300">
+  <img src="https://te.legra.ph/file/d25983b2c075012cf00b4.jpg" width="300">
 </p>
 
 
